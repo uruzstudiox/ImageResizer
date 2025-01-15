@@ -12,7 +12,7 @@ This guide will help you successfully install and run the program.
 ## Step 1: Extract the ZIP File
 - After downloading the ZIP file, right-click on it and select "Extract All."
 \
-![alt text](image.png)
+![extract1](docs/docs_images/extract1.png)
 - Choose a destination folder and click the "Extract" button.
 - Alternatively, you can use applications like
 **[WinRAR](https://www.win-rar.com/download.html?&L=5)** or
@@ -24,16 +24,16 @@ launch the program.
 - To create a desktop shortcut:
     1. Right-click on the 'resizer.exe' file.
     2. Select "Send to > Desktop (create shortcut)."  
-    ![alt text](shortcut-1.png)
+    ![shortcut1](docs/docs_images/shortcut1.png)
 
 ## Step 3: Windows Defender Warnings
 If Windows Defender displays a warning, follow these steps:
 - Click on the "More Info" button on the warning screen.
-![alt text](defender1.png)
+![defender1](docs/docs_images/defender1.png)
 - Select the "Run Anyway" option to proceed. The program is safe to use. For
 more information, refer to the
 "[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)" section.  
-![alt text](defender2.png)
+![defender2](docs/docs_images/defender2.png)
 
 ## Frequently Asked Questions (FAQ)
 - **Why am I receiving a security warning?**  
