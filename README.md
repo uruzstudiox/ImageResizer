@@ -31,6 +31,7 @@ This program does not require additional installation. To use the program:
 - **For Windows users:** You can directly run the `resizer.exe` file located in the main folder.
 - **For other operating systems or those who wish to use the raw Python code:** Run the `resizer.py` file located in the `raw` folder using a Python editor or IDE. You can also package the `resizer.py` file according to your operating system.
 - **Packaging:** The current `resizer.exe` file was packaged using the PyInstaller tool.
+- For more details, refer to the [Setup Guide](SetupGuide.md).
 
 ### Usage
 This program allows you to perform image editing operations using a user-friendly command-line interface. Below are the basic steps and explanations for using the program:
