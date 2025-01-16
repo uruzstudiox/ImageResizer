@@ -1,15 +1,22 @@
 # Installation Guide
-
 This guide will help you successfully install and run the program.
 
-- [Step 1: Extract the ZIP File](#step-1-extract-the-zip-file)
-- [Step 2: Running the Program and Creating a Desktop Shortcut](#step-2-running-the-program-and-creating-a-desktop-shortcut)
-- [Step 3: Windows Defender Warnings](#step-3-windows-defender-warnings)
+## Table of Contents
+- [Step 1: Download the ZIP File](#step-1-download-the-zip-file)
+- [Step 2: Extract the ZIP File](#step-2-extract-the-zip-file)
+- [Step 3: Running the Program and Creating a Desktop Shortcut](#step-3-running-the-program-and-creating-a-desktop-shortcut)
+- [Step 4: Windows Defender Warnings](#step-4-windows-defender-warnings)
 - [Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)
 - [Developer Notes](#developer-notes)
 - [Version History Table](#version-history-table)
 
-## Step 1: Extract the ZIP File
+## Step 1: Download the ZIP File
+- On the repository's main page, click the **Code** button and select
+**Download ZIP** from the dropdown menu.
+\
+![download1](docs/docs_images/download1.png)
+
+## Step 2: Extract the ZIP File
 - After downloading the ZIP file, right-click on it and select "Extract All."
 \
 ![extract1](docs/docs_images/extract1.png)
@@ -18,21 +25,24 @@ This guide will help you successfully install and run the program.
 **[WinRAR](https://www.win-rar.com/download.html?&L=5)** or
 **[7-Zip](https://7-zip.org/download.html)** to extract the files.
 
-## Step 2: Running the Program and Creating a Desktop Shortcut
+## Step 3: Running the Program and Creating a Desktop Shortcut
 - Navigate to the extracted folder and double-click the "resizer.exe" file to
 launch the program.
 - To create a desktop shortcut:
     1. Right-click on the 'resizer.exe' file.
-    2. Select "Send to > Desktop (create shortcut)."  
+    2. Select "Send to > Desktop (create shortcut)."
+    \
     ![shortcut1](docs/docs_images/shortcut1.png)
 
-## Step 3: Windows Defender Warnings
+## Step 4: Windows Defender Warnings
 If Windows Defender displays a warning, follow these steps:
 - Click on the "More Info" button on the warning screen.
+\
 ![defender1](docs/docs_images/defender1.png)
 - Select the "Run Anyway" option to proceed. The program is safe to use. For
 more information, refer to the
-"[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)" section.  
+"[Frequently Asked Questions (FAQ)](#frequently-asked-questions-faq)" section.
+\
 ![defender2](docs/docs_images/defender2.png)
 
 ## Frequently Asked Questions (FAQ)
@@ -59,3 +69,5 @@ in the project comments section.
 |-----------|---------------|---------------|---------------------------|
 | V0.0.0    | 15.01.2025    | Uruz          | Raw version of the document. |
 | V0.0.1    | 15.01.2025    | Uruz          | First version of the document. |
+| V0.0.2    | 16.01.2025    | Uruz          | Added: Instructions for downloading the ZIP file from the repository. |
+
