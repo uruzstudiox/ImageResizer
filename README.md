@@ -1,5 +1,7 @@
 # Image Resizer User Guide
 
+**Categories:** Example Programs (EP)
+
 This guide explains the usage, functions, and error management of the Image Resizer program. The program is a CLI tool designed to simplify operations such as resizing BMP images and adding grids.
 
 ## Table of Contents
